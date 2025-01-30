@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1738226128,
+	"version": 1738238478,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,16 @@
 		"images/sprite11sheet-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/jennifer result.m4a",
+		"media/jennifer result.ogg",
+		"media/jennifer tap.m4a",
+		"media/jennifer tap.ogg",
+		"media/michelle result.m4a",
+		"media/michelle result.ogg",
+		"media/michelle tap.m4a",
+		"media/michelle tap.ogg",
+		"media/bg.m4a",
+		"media/bg.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
